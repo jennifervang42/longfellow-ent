@@ -108,4 +108,4 @@ if __name__ == "__main__":
         "--repo_dir", metavar="path", required=True, help="Pytorch3D repo directory."
     )
     args = parser.parse_args()
-    gen_tutorials(args.repo_dir)# helpful comment# helpful comment# helpful comment# helpful comment# helpful comment
+    gen_tutorials(args.repo_dir)# helpful comment# helpful comment# helpful comment# helpful comment# helpful comment# helpful comment
